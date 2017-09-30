@@ -4,4 +4,4 @@ A simple weather app that displays your local weather.
 
 ## Demo
 
-hhtp://confused-position.surge.sh
+http://confused-position.surge.sh/
