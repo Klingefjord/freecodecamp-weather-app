@@ -1,4 +1,4 @@
-var key = "&APPID=a3cb88d89cc1098cbd4da7e39d1cdf51"; //api key
+var key = config.API_KEY; //api key
 var api = "http://api.openweathermap.org/data/2.5/weather?q="; //api url
 var png = "http://openweathermap.org/img/w/"; //link to icons
 var isCelsius = true; //default celsius display
